@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+langchain-groq
+langchain-community
+langsmith
+openai
+groq
+huggingface-hub
+python-dotenv
